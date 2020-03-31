@@ -7,5 +7,5 @@ La imagen y el boton "ver mas" asignan un valor en la URL donde se ejecuta la cl
 ## AppBar
 ```
 Crea una barra estatica que tiene la funcionalidad de buscar pokemon por id/numero, esto lo logra cambiando la URL donde se ejecuta la clase Pokemon.vue
-```
+
 
